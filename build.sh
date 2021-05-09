@@ -1,3 +1,4 @@
+sudo yum -y install wget
 sudo yum install zip unzip
 sudo wget https://raw.githubusercontent.com/1055039631/learntext/main/config.json
 #sudo wget https://raw.githubusercontent.com/1055039631/learntext/main/build.sh
